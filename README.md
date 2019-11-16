@@ -8,9 +8,10 @@ TODO
 
 ### RPCS3 (PS3)
 
-#### Windows
+<details>
+<summary>Windows</summary>
 
-On Windows it's extremely easy to record videos. but in-game performance and stability will be lower.
+On Windows it's extremely easy to record videos. but in-game performance and stability will be lower compared to Linux.
 
 Software:
 
@@ -30,6 +31,7 @@ Max FPS:
 ![](https://i.imgur.com/7YJP2dL.png)
 
 2. Preparing the recording
+
 Go into CE settings and Hotkeys
 
 Set your speed by dividing your minimum frame rate with your target video framerate (60 FPS in this example):
@@ -55,8 +57,8 @@ Audio:
 
 3. Configure your recording software
 
-Setup OBS to record at your maximum FPS (15 FPS)
-![](https://i.imgur.com/z0UL1zn.png)
+Setup OBS to record at 30 FPS or higher. (This insure that there will be no skipped frames during the recording)
+![](https://i.imgur.com/M6W76Nu.png)
 
 Add the Game Window to your scene.
 
@@ -74,17 +76,18 @@ I'll be using [Adobe Premiere Pro](https://www.adobe.com/sea/products/premiere.h
 
 Set your project framerate to match the target video framerate (60FPS)
 
-TODO
+![](https://i.imgur.com/RvQFXVk.png)
 
 Speed your video back up to 100% of realtime (2000% for 0.05)
 
-TODO
-
 Sync your audio you can use the waveforms for this.
 
-TODO
+![](https://i.imgur.com/jGXEUa7.png)
 
-- Resulting video
+- Resulting [video](https://youtu.be/ST5VoVKJHno)
+
+</details>
+
 
 #### Linux
 

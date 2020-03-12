@@ -40,7 +40,7 @@ Configuring RPCS3:
 
 I'll be using the vblank method to unlock the framerate for this game.
 
-You can use [Game Patches](https://github.com/RPCS3/rpcs3/wiki/Game-Patches) (if available for your game)
+You can use [Game Patches](https://wiki.rpcs3.net/index.php?title=Help:Game_Patches) (if available for your game)
 
 ![](https://i.imgur.com/WYGrQVG.png)
 
@@ -123,7 +123,7 @@ Configuring RPCS3:
 
 I'll be using the vblank method to unlock the framerate for this game.
 
-You can use [Game Patches](https://github.com/RPCS3/rpcs3/wiki/Game-Patches) (if available for your game)
+You can use [Game Patches](https://wiki.rpcs3.net/index.php?title=Help:Game_Patches) (if available for your game)
 
 ![](https://i.imgur.com/WYGrQVG.png)
 

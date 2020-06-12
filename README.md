@@ -62,7 +62,9 @@ Once you're ready to record press your Hotkey button and start recording.
 
 ![](https://i.imgur.com/HPCDO18.png)
 
-If you're recording multiple segments rename the audio file inside your RPCS3 folder from `audio` to anything else before starting another session of the game or else you'll lose your audio file.
+~~If you're recording multiple segments rename the audio file inside your RPCS3 folder from `audio` to anything else before starting another session of the game or else you'll lose your audio file.~~
+
+Resolved in https://github.com/RPCS3/rpcs3/pull/8317. 
 
 4. Editing
 
@@ -160,7 +162,9 @@ Set the speed in timeskew once game has started running and start recording.
 
 ![](https://i.imgur.com/7E8wbta.png)
 
-If you're recording multiple segments rename the audio file inside your RPCS3 folder in `~/.cache/rpcs3` or `~/.config/rpcs3` from `audio.wav` to anything else before starting another session of the game or else you'll lose your audio file. 
+~~If you're recording multiple segments rename the audio file inside your RPCS3 folder from `audio` to anything else before starting another session of the game or else you'll lose your audio file.~~
+
+Resolved in https://github.com/RPCS3/rpcs3/pull/8317. 
 
 Follow Step 4 from the Windows Guide.
 

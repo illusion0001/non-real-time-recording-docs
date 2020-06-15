@@ -11,8 +11,6 @@ TODO
 <details>
 <summary>Windows</summary>
 
-On Windows it's extremely easy to record videos. but in-game performance and stability will be lower compared to Linux.
-
 Software:
 
   * Any recording software ([OBS](https://github.com/obsproject/obs-studio) as an example)
@@ -91,7 +89,7 @@ Sync your audio you can use the waveforms for this.
 
 Thanks to [The Gaming Restoration/ 60fps hacks](https://www.youtube.com/channel/UCI64fp_jtv6o_tZc1Ikp1jA) for the Linux explanation.
 
-On Linux recording is complicated and requires command-line app that's very unstable but in-game performance and stability will be higher compared to Windows.
+On Linux recording is complicated and requires command-line app that's very unstable.
 
 Software:
 
